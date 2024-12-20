@@ -1,0 +1,12 @@
+aed1bbb645384147a282e21571712446
+
+<Route path="/business"> <News country = 'us' category='business'></News></Route>
+<Route path="/entertainment"> <News country = 'us' category='entertainment'></News></Route>
+<Route path="/general"> <News country = 'us' category='general'></News></Route>
+<Route path="/health"> <News country = 'us' category='health'></News></Route>
+<Route path="/science"> <News country = 'us' category='science'></News></Route>
+<Route path="/sports"> <News country = 'us' category='sports'></News></Route>
+<Route path="/technology"> <News country = 'us' category='technology'></News></Route>
+
+
+<Route path="/"> <News country = 'us' category='general'></News></Route>
